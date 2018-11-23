@@ -5,6 +5,5 @@ and crawl inspire for the bibtex/latex entry.
 
 Usage:
 ```
-  get-arxiv.py [-h] [--pdf] [--download] [--bibtex] [--latex] [--latexUS]
-               arxiv numbers
+  get-arxiv.py [-h] [--pdf] [--download] [--bibtex] [--latex] [--latexUS] arxiv numbers
 ```
