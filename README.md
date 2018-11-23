@@ -1,4 +1,4 @@
-# get-arxiv.py
+# get_arxiv.py
 
 A small script to download pdfs and tarballs of an arxiv reference,
 and crawl inspire for the bibtex/latex entry.
