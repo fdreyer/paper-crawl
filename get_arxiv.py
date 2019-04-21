@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-
+#
+# by Frederic Dreyer, 2018
+#
 # script to download a paper on arxiv and rename the tarball in
 # something sensible
 #
